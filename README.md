@@ -1,9 +1,25 @@
-# Foody-Zone-Project
- | ReactJs, JavaScript, CSS , HTML
- Jan 2025
- • Designed and developed Foody Zone, a responsive and interactive food delivery website using React, JavaScript, HTML,
- and CSS.
- • Implemented a mobile-first approach, ensuring seamless functionality across desktops, tablets, and smartphones.
- • Utilized React hooks and state management techniques to optimize performance and enhance user experience.
- • Developed reusable and modular React components, improving code maintainability and scalability.
- • Optimized website performance by minimizing API calls, reducing bundle size, and implementing caching strategies.
+
+# React 10 PRACTICE PROJECT FOR BEGINNERS
+## Project 4 - Foody Zone
+
+![Main Page](https://github.com/anshuopinion/React-10-Projects/assets/50476777/713b76c2-1f25-4081-85d9-e90851c49e61)
+
+
+Project that we are going to build in this complete practice course
+
+- Project 1 - BRAND LANDING PAGE
+- Project 2 - CONTACT US PAGE
+- Project 3 - DICE GAME
+- Project 4 - FOODY ZONE 
+- Project 5 - COMMING SOON
+- Project 6 - COMMING SOON
+- Project 7 - COMMING SOON
+- Project 8 - COMMING SOON
+- Project 9 - COMMING SOON
+- Project 10 - COMMING SOON
+
+Figma Design URL - https://www.figma.com/file/rephrU2FVgN8MFz6XhnP51/Learn-React-with-10-Projects?type=design&node-id=343-53&t=6WELmKB9oX66NYBS-0
+
+Visit Website For More Details - https://dosomecoding.com
+
+
